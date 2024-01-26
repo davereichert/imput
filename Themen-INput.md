@@ -37,7 +37,7 @@ Das Master-Slave-Modell definiert eine klare Rollenverteilung: Ein Master übern
  
 Diese Replikationsstrategien tragen zur Datenintegrität, Ausfallsicherheit und Lastverteilung in verteilten Systemen bei.
 
-## Hoeizontale Skalierung
+## Horizontale Skalierung
 Horizontale Skalierung, auch bekannt als Scale-Out, ist eine Methode zur Erweiterung der Kapazitäten eines Systems, indem zusätzliche Knoten oder Instanzen hinzugefügt werden. Im Gegensatz zur vertikalen Skalierung, bei der die Leistungsfähigkeit eines einzelnen Knotens erhöht wird, verteilt die horizontale Skalierung die Last auf mehrere kleinere Systeme. Hier sind die wichtigsten Punkte zur horizontalen Skalierung:
 
 #### Lastverteilung

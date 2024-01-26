@@ -3,7 +3,7 @@
     - [Multimaster](#multimaster)
     - [Master-Slave](#master-slave)
     - [Aktiv-Passiv](#aktiv-passiv)
-  - [Hoeizontale Skalierung](#hoeizontale-skalierung)
+  - [Horizontale Skalierung](#hoeizontale-skalierung)
       - [Lastverteilung](#lastverteilung)
       - [Redundanz und Ausfallsicherheit](#redundanz-und-ausfallsicherheit)
       - [Anwendungsfälle](#anwendungsfälle)
